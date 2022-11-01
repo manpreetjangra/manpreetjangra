@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @manpreetjangra
-- 👀 I’m interested in Frontend Development 
+- 👀 I’m interested in FullStack Development 
 - 🌱 I’m currently learning React 
 - 🏫 I am a computer engineering student at The University of Waterloo
 
