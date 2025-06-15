@@ -1,4 +1,4 @@
-### 👋 Hey there! I'm Manpreet
+### 👋 Hey there! I'm Manpreet :)
 
 💻 I'm a 4A Computer Engineering student at the University of Waterloo  
 🌐 Passionate about Full Stack Development & Developer Tooling  
@@ -7,7 +7,6 @@
 
 ### 📫 Let’s connect!
 - 🧠 [Portfolio Website](https://manpreetjangra.netlify.app/) 
-- 🐙 [GitHub](https://github.com/manpreetjangra)
 - 💼 [LinkedIn](https://linkedin.com/in/manpreet-jangra)
 <!---
 manpreetjangra/manpreetjangra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
